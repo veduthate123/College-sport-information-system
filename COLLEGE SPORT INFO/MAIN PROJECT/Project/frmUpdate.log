@@ -1,0 +1,4 @@
+Line 34: Class MSComDlg.CommonDialog of control CommDlg_Path was not a loaded control class.
+Line 37: The property name _ExtentX in CommDlg_Path is invalid.
+Line 38: The property name _ExtentY in CommDlg_Path is invalid.
+Line 39: The property name _Version in CommDlg_Path is invalid.
